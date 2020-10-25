@@ -66,3 +66,7 @@ form[method] {
     padding-bottom: 30px;
     font-size: small;
 }
+
+div {
+    padding: 10px;
+}
