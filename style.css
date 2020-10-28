@@ -42,6 +42,15 @@ table {
     margin-right: auto;
 }
 
+
+nav {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: silver;
+    padding: 20px;
+}
+
 #navigation, ul {
     list-style:none;
     margin:0;
@@ -49,9 +58,10 @@ table {
     text-align:center;
 }
 
-.nav {
+.navbutton {
     display:inline;
     color: black;
+
 }
 
 a {
