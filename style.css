@@ -6,7 +6,6 @@ body {
     background-color: lightgray;
     align-items: center;
     margin: auto;
-    max-width: 1000px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -20,21 +19,34 @@ h2 {
     font-size: 24pt;
 }
 
+.content {
+    display: flex;
+}
+
+.side {
+    width: 50%;
+}
+
 .post {
     color: black;
     padding-bottom: 40px;
-    
 }
 
 .text {
     text-align: justify;
 }
 
+.picture {
+    float: left;
+}
+
+.caption {
+    font-size: smaller;
+}
+
 img {
-    display: block;
-    position: flex;
     margin: auto;
-    padding: 10px;
+    padding: 5px;
 }
 
 table {
