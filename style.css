@@ -97,7 +97,7 @@ div {
     h1 {
         font-size: 24pt;
     }
-    body {
+    .content {
         max-width: 300px;
     }
 
