@@ -105,7 +105,7 @@ div {
     }
 
     .side {
-        width: 10%;
+        width: 5%;
     }
     
     .post {
@@ -113,7 +113,7 @@ div {
     }
 
     img {
-        max-width: 75%;
+        max-width: 100%;
         height: auto;
     }
 
