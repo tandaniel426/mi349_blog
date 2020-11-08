@@ -39,6 +39,7 @@ h2 {
 
 .picture {
     float: left;
+    
 }
 
 .caption {
@@ -100,6 +101,11 @@ div {
     }
     .post {
         max-width: 250px;
+    }
+
+    img {
+        max-width: 50%;
+        height: auto;
     }
 
 }
