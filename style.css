@@ -94,6 +94,11 @@ div {
 }
 
 @media (max-width: 400px) {
-
+    h1 {
+        font-size: 24pt;
+    }
+    body {
+        max-width: 300px;
+    }
 
 }
