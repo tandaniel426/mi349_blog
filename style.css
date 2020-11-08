@@ -21,6 +21,7 @@ h2 {
 
 .content {
     display: flex;
+    
 }
 
 .side {
@@ -97,8 +98,8 @@ div {
     h1 {
         font-size: 24pt;
     }
-    .content {
-        max-width: 300px;
+    .post {
+        max-width: 250px;
     }
 
 }
