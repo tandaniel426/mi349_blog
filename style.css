@@ -99,12 +99,21 @@ div {
     h1 {
         font-size: 24pt;
     }
+
+    h2 {
+        font-size: 14pt;
+    }
+
+    .side {
+        width: 10%;
+    }
+    
     .post {
         max-width: 350px;
     }
 
     img {
-        max-width: 50%;
+        max-width: 75%;
         height: auto;
     }
 
