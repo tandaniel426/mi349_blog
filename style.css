@@ -117,4 +117,9 @@ div {
         height: auto;
     }
 
+    #author-image {
+        max-width: 80%;
+        height: auto;
+    }
+
 }
